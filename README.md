@@ -3,4 +3,6 @@
 # Hello there!
 ## I'm Aleksi.
 
-I'm a third year Software Engineering student at Turku University of Applied Sciences. Exploring full-stack development with Java, exploring databases, looking into python AI libraries, and learning C++. I am eager to learn new skills in software engineering.
+I'm a third year Software Engineering student at Turku University of Applied Sciences. I like Java and C/C++ which are currently my main focus although I often interract with other languages/technologies such as javascript, react, node etc.
+
+Check out my pinned beginner projects!
